@@ -30,7 +30,7 @@ class Transaction
     }
 
     $transactionContext = $this->createTransactionContext();
-    $transactionContext->setName( $name);
+    $transactionContext->setName($name);
     $transactionContext->setOp($operation);
 
     $this->transaction = \Sentry\startTransaction($transactionContext);
