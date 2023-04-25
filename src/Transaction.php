@@ -10,7 +10,7 @@ class Transaction
   protected $tracingEnabled;
 
   /**
-   * @var \SentryTracing\Transaction
+   * @var \Sentry\Tracing\Transaction
    */
   protected $transaction;
 
