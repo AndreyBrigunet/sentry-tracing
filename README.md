@@ -5,7 +5,7 @@ A wrapper library for implementing [custom instrumentation](https://docs.sentry.
 ## Installation
 
 ```bash
-composer require johnshopkins/sentry-tracing
+composer require andreybrigunet/sentry-tracing
 ```
 
 ## Basic usage
