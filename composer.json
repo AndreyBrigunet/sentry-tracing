@@ -1,5 +1,5 @@
 {
-  "name": "AndreyBrigunet/sentry-tracing",
+  "name": "andreybrigunet/sentry-tracing",
   "homepage": "https://github.com/AndreyBrigunet/sentry-tracing",
   "version": "1.4",
   "autoload": {
