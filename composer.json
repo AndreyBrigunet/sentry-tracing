@@ -1,7 +1,7 @@
 {
   "name": "andreybrigunet/sentry-tracing",
   "homepage": "https://github.com/AndreyBrigunet/sentry-tracing",
-  "version": "1.4",
+  "version": "1.4.1",
   "autoload": {
     "psr-4": {
       "SentryTracing\\": "src/"
