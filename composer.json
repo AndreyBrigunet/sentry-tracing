@@ -1,7 +1,7 @@
 {
   "name": "andreybrigunet/sentry-tracing",
   "homepage": "https://github.com/AndreyBrigunet/sentry-tracing",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -16,6 +16,6 @@
   ],
   "require": {
     "php": ">=7.3",
-    "sentry/sdk": "^3.3"
+    "sentry/sdk": "^3.3|^4.0"
   }
 }
